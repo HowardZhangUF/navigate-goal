@@ -1,0 +1,8 @@
+git 
+git add
+git commit -m ""
+git log
+git status
+git remote add
+git push origin master 
+## for many branch
